@@ -7,3 +7,7 @@
 ```
 Ejemplo de código
 ```
+
+- [x] DjPierre es bombero
+- [x] Djpierre es albañil
+- [ ] Djpierre es actor
